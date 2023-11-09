@@ -21,7 +21,7 @@ const CampSite = ({
     >
       <div
         className="flex h-full flex-col items-start justify-between p-6
-                   lg:px-20 lg:py-10 border-2 border-green-700"
+                   lg:px-20 lg:py-10"
       >
         {/* logo & place detail above the image */}
         <div className="flex items-center justify-center gap-4">
